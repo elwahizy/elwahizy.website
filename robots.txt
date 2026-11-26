@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elwahizy.github.io/elwahizy.website/sitemap.xml
