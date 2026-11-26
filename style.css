@@ -396,3 +396,24 @@ h1 span {
     transition-duration: 0.01ms !important;
   }
 }
+
+.value-list {
+  max-width: 680px;
+  margin: 0 0 2rem;
+  padding-left: 1.25rem;
+  color: var(--muted);
+  font-size: 1.1rem;
+}
+
+.value-list li + li {
+  margin-top: 0.5rem;
+}
+
+.content-section a:not(.button) {
+  color: var(--blue-dark);
+  text-underline-offset: 3px;
+}
+
+.content-section {
+  min-height: 0;
+}
